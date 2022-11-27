@@ -1,6 +1,6 @@
-# BUSADM3632-Meta2
+# Industry Immersion Program-Meta2
 
-12 week project for BUSADM3632.05.
+12 week project for Industry Immersion Program BUSADM3632.05.
 
 Group Meta2.
 
